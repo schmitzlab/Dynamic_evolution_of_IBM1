@@ -5,10 +5,10 @@ Here are the scripts used for data analysis in the research study titled 'Dynami
 The input files required to run the scripts mentioned below can be accessed here:
 
 # Scripts
-## analysis within population
 
-## pipeline for generating IBM1 gene tree and intron structure
+## Analysis within population
+
+## Pipeline for generating IBM1 gene tree and intron structure
 
 ## IBM1 intron sequence annotation
-
-## 
+ 
