@@ -6,7 +6,7 @@ The input files required to run the scripts mentioned below can be accessed here
 
 # Scripts
 
-## Analysis within population
+## Analysis for arabidopsis population
 
 ## Pipeline for generating IBM1 gene tree and intron structure
 
