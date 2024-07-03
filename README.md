@@ -19,7 +19,17 @@ The input files required to run the scripts mentioned below can be accessed here
 
 ## Pipeline for generating IBM1 gene tree and intron structure
 
-`check.match.pl` This script verifies the alignment of amino acid sequences with their corresponding coding sequences (CDS) from input files. It checks if the amino acids match the reading frames of the CDS, filters out sequences with mismatches or errors, and generates statistics about the sequence verification process. 
+`check.match.pl` This script verifies the alignment of amino acid sequences with their corresponding coding sequences (CDS) from input files. It checks if the amino acids match the reading frames of the CDS, filters out sequences with mismatches or errors, and generates statistics about the sequence verification process.   
+
+`convertto.phylip.pl` This script converts sequence alignment files from Gblock to Phylip format, facilitating the construction of maximum likelihood trees using RAxML.
+
+`frompep.to.codon.pl` This script converts peptide alignments into codon alignments.
+
+`extract.intron.seq.species.pl` This script extracts specific intron sequences from a given genome assembly using gene IDs and location information from GFF annotations.
+
+`covert.intron.location.pl` This script identifies the relative coordinates of targeted introns, exons, and protein domains of interest based on provided GFF files.
+
+`methylation_structurev2.0.r` This script generates a gene tree for IBM1 and plots intron methylation data.
 
 ## IBM1 intron sequence annotation
  
