@@ -19,7 +19,7 @@ The input files required to run the scripts mentioned below can be accessed here
 
 ## Pipeline for generating IBM1 gene tree and intron structure
 
-`check.match.pl` This script verifies the alignment of amino acid sequences with their corresponding coding sequences (CDS) from input files. It checks if the amino acids match the reading frames of the CDS, filters out sequences with mismatches or errors, and generates statistics about the sequence verification process. The script accepts peptide and CDS files as inputs, performs checks for correct translation based on a genetic code mapping, and outputs the checked sequences along with a summary of sequences that passed or failed the verification.
+`check.match.pl` This script verifies the alignment of amino acid sequences with their corresponding coding sequences (CDS) from input files. It checks if the amino acids match the reading frames of the CDS, filters out sequences with mismatches or errors, and generates statistics about the sequence verification process. 
 
 ## IBM1 intron sequence annotation
  
