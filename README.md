@@ -33,3 +33,14 @@ The input files required to run the scripts mentioned below can be accessed here
 
 ## IBM1 intron sequence annotation
  
+`extract.snp.seq.longintron.pl` This script extracts SNPs from specific intron regions using gene and CDS annotations in GFF files.  
+
+`GC.calculation.r` This script calculates the GC content of specified intron sequences.  
+
+`snp.diversity.r` This script calculates SNP density and Tajima's D for specified intron regions.  
+
+`species.ex.heatmap.r` This R script is designed to process and analyze gene expression data across multiple species. It reads in gene expression data and gene body methylation (gbM) counts from text files for two main visualizations: a heatmap that displays gene expression levels and a scatter plot that shows the ratio of gbM genes.   
+
+`species.ex.methyl.r` This R script analyzes the relationship between gene expression and intron methylation status across various species. The script reads and merges relevant datasets, then performs statistical comparisons and visualizations  
+
+`summaryTE.v2.r` This R script performs an integrated analysis combining gene expression data, intron methylation status, and transposable element (TE) annotations across multiple species to explore potential correlations between these genomic features
