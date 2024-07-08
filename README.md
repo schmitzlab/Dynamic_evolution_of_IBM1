@@ -2,7 +2,7 @@
 Here are the scripts used for data analysis in the research study titled 'Dynamic evolution of the heterochromatin sensing histone demethylase IBM1'.
 
 # Input dataset
-The input files required to run the scripts mentioned below can be accessed here:
+The input files required to run the scripts mentioned below can be accessed here: [https://osf.io/gk6tn/files/osfstorage](https://osf.io/gk6tn)
 
 # Scripts
 
